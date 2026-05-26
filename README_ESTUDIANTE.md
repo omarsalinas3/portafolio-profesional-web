@@ -24,4 +24,7 @@ Personalizar una plantilla web profesional utilizando Git y GitHub.
 - git pull
 - git branch
 ## Evidencias
-*Agrega aquí las capturas de tu proyecto funcionando, como lo solicita la rúbrica.*
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8034a340-aefe-4b42-be32-b6a7fd51f2c9" />
+
+
+
